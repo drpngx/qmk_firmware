@@ -152,8 +152,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Bootmagic Lite key configuration */
 //#define BOOTMAGIC_LITE_ROW 0
 //#define BOOTMAGIC_LITE_COLUMN 0
-
-// Added by png:
-#define MOUSEKEY_INTERVAL 16
-#define MOUSEKEY_MOVE_DELTA 10
-#define MOUSEKEY_MAX_SPEED 40
